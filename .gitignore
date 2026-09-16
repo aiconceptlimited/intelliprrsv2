@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+.venv-*/
+venv/
+env/
+ENV/
+
+# Environment / credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.secret
+
+# Logs
+*.log
+logs/
+*.out
+
+# Runtime/generated data
+data/raw/
+data/clean/
+data/fetched_sequences/
+results/
+tmp/
+temp/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated scientific outputs
+*.nwk
+*.tree
+*.fastq
+*.fq
+
+# Generated sequence files
+# Keep curated reference FASTA files under reference/
+data/*.fasta
+data/*.fa
+data/**/*.fasta
+data/**/*.fa
+
+# Local/generated alignment and sequence artifacts
+*.aln
+*.phy
+
+# Local deployment artifacts
+audit_backups/
+audit_baseline*/
+backups/
+backup/

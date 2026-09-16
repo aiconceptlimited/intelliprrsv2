@@ -1,0 +1,15 @@
+vaccine_name,accession,lineage,type,region
+Lelystad_Virus,M96262,Type1,MLV,Europe
+Porcilis_PRRS,AY366525,Type1,MLV,Europe
+Amervac_PRRS,AY585241,Type1,MLV,Europe
+Ingelvac_PRRS_MLV,U87392,5,MLV,NorthAmerica
+PrimePac_PRRS,AF184212,7,MLV,NorthAmerica
+Fostera_PRRS,JF802085,8,MLV,NorthAmerica
+Prevacent_PRRS,KY496374,1A,MLV,NorthAmerica
+JXA1_MLV,EF112445,8,MLV,Asia
+HuN4_F112,EF635006,8,MLV,Asia
+TJM_F92,EU860248,8,MLV,Asia
+CH_1R,EU807840,8,MLV,Asia
+NADC30_like,KF501397,1A,Field,NorthAmerica
+NADC34_like,MN073139,1C,Field,NorthAmerica
+
